@@ -83,7 +83,7 @@ div.container nav div.links ul {
     list-style-type: none;
     position: absolute;
     display: none;
-    right: -75px;
+    left: -100px;
     top: 22px;
     padding: 0;
     background-color: #fafafa;
