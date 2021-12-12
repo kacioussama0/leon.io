@@ -6,6 +6,10 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+html {
+ scroll-behavior: smooth;
+}
+
 body {
     background-color: #eee;
 }
@@ -83,7 +87,7 @@ div.container nav div.links ul {
     list-style-type: none;
     position: absolute;
     display: none;
-    left: -100px;
+    left: -120px;
     top: 22px;
     padding: 0;
     background-color: #fafafa;
